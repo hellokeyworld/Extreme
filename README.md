@@ -1,6 +1,4 @@
-# Extreme
-
-## Genomic landscape of extraordinary responses in metastatic breast cancer
+# Genomic landscape of extraordinary responses in metastatic breast cancer
 <br>
 Dear data users,
 
