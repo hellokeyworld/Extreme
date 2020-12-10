@@ -8,6 +8,7 @@ Thank you for your interest in our work. In this github you will find :
    - Mutation.sh
    - CNV.sh
    - Clone.sh
-   - Figures.R 
+   - Statistic_boxplot.R
+   - TMB_histogram.R
    
 If you have any further questions, we will be glad to help you go through the process.
