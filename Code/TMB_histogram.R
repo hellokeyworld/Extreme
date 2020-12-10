@@ -7,6 +7,11 @@ library(scales)
 library(rstatix)
 library(dplyr)
 
+
+
+totalTMB<-read.table("Genomic_Data.txt", sep="\t" ,header=T)
+
+
 ##summary
 mean(totalTMB$nonsynonymous)
 sd(totalTMB$nonsynonymous)
